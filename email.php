@@ -28,14 +28,12 @@ $mail->AddCC("sam.benzadal@gmail.com", "sam");
 $mail->Subject = "Test is Test Email sent via Gmail SMTP Server using PHP Mailer";
 $content = "<h1>HAHAHA</h1></br></br><b>This is a Test Email sent via Gmail SMTP Server using PHP mailer class.</b>";
 
-$mail->Send()
-
-<!-- $mail->MsgHTML($content); 
+$mail->MsgHTML($content); 
 if(!$mail->Send()) {
   echo "Error while sending Email.";
   var_dump($mail);
 } else {
   echo "Email sent successfully";
-} -->
+}
 
 ?>
