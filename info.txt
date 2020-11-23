@@ -1,0 +1,8 @@
+the tutorial here
+https://pepipost.com/tutorials/send-an-email-via-gmail-smtp-server-using-php/
+
+the PHPMailer Github
+https://github.com/PHPMailer/PHPMailer/
+
+Some example here
+https://github.com/PHPMailer/PHPMailer/wiki/Tutorial
